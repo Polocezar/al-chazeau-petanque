@@ -1,4 +1,4 @@
-  from datetime import date
+from datetime import date
 import streamlit as st
 
 # Configuration de la page
